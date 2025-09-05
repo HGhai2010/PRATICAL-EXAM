@@ -26,7 +26,8 @@ int main(){
             count=1;
         }
 		}
-	if(count==0){
-		printf("Khong co so nguyen trong day");
+	if(count=1){
+		printf("Khong co so nguyen to")
 	}
     }
+
